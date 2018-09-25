@@ -15,7 +15,7 @@ public class Declaracion_Operadores {
      //c+=6;//incrementa en 6
      //c-=6;//decrementa en 6
     System.out.println(c);*/
-    /*final double apulgadas=2.54; //declarar una constante y no se [uede modificar
+    /*final double apulgadas=2.54; //declarar una constante y no se puede modificar
     double cm=6;
     double resultado=cm/apulgadas;
     System.out.println("En "+ cm + " cm hay " + resultado + " pulgadas");//+ se ua para concatenar
